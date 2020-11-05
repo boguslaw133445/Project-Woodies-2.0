@@ -1,0 +1,596 @@
+@media (max-width: 1100px) {
+    .main-menu,
+    .signup {
+        margin-right: 10px;
+    }
+}
+
+@media (max-width: 996px) {
+    .main-menu {
+        display: none;
+    }
+
+    .main-logo {
+        margin-left: 40px;
+    }
+
+    .left-side-text {
+        max-width: 300px;
+        margin-left: 40px;
+    }
+    .wooden-furniture {
+        font-size: 24;
+    }
+
+    .big-text {
+        font-size: 48px;
+    }
+
+    .box {
+        width: 300px;
+        height: 600px;
+    }
+
+    .table {
+        width: 300px;
+        height: 300px;
+        top: 250px;
+        left: 450px;
+    }
+
+    .leafs {
+        width: 200px;
+        height: 200px;
+        left: 400px;
+    }
+
+    .logo2 {
+        margin-top: 2px;
+    }
+
+    .border-line {
+        width: 216px;
+        padding-top: 38px;
+    }
+
+    .border-line-2 {
+        padding-top: 38px;
+        width: 200px;
+    }
+
+    .font-36 {
+        font-size: 24px;
+    }
+
+    .font-72 {
+        font-size: 40px;
+        margin-top: 10px;
+    }
+
+    .card {
+        width: 210px;
+        height: 300px;
+        left: 80px;
+    }
+
+    .bowl {
+        top: 150px;
+        left: 80px;
+        width: 300px;
+        height: 200px;
+    }
+
+    .leafs2 {
+        top: 180px;
+        width: 300px;
+        height: 300px;
+    }
+
+    .text {
+        width: 308px;
+        margin-right: 60px;
+    }
+
+    .bottom-content {
+        max-width: 430px;
+        margin-left: 50px;
+        margin-top: 80px;
+    }
+
+    .spoon {
+        top: 450px;
+        right: 100px;
+        width: 200px;
+        height: 300px;
+    }
+
+    .how-it-works {
+        margin-left: 150px;
+        margin-top: 40px;
+    }
+
+    .middle-content-2 {
+        margin: 0 auto;
+        justify-content: center;
+    }
+
+    .order1 {
+        flex: 2;
+        flex-basis: 25%;
+    }
+
+    .order2 {
+        flex: 2;
+        flex-basis: 25%;
+    }
+
+    .order3 {
+        flex: 2;
+        flex-basis: 25%;
+        margin-top: 40px;
+    }
+
+    .order4 {
+        flex: 2;
+        flex-basis: 25%;
+        margin-top: 40px;
+    }
+
+    .card__main {
+        margin: 0 auto;
+        justify-content: center;
+        margin-top: 40px;
+    }
+
+    .card_box {
+        margin-top: 40px;
+    }
+
+    .previous,
+    .next {
+        margin-top: 30px;
+        margin-right: 220px;
+    }
+}
+@media (max-width: 776px) {
+    .left-side-text {
+        max-width: 300px;
+        margin-left: 40px;
+        align-self: center;
+    }
+    .wooden-furniture {
+        font-size: 18;
+    }
+
+    .big-text {
+        font-size: 36px;
+    }
+
+    .box {
+        width: 200px;
+        height: 500px;
+    }
+
+    .table {
+        width: 200px;
+        height: 200px;
+        top: 250px;
+        left: 480px;
+    }
+
+    .leafs {
+        width: 150px;
+        height: 150px;
+        left: 450px;
+        top: 350px;
+    }
+
+    .border-line {
+        width: 216px;
+        padding-top: 38px;
+    }
+
+    .border-line-2 {
+        padding-top: 30px;
+        width: 180px;
+    }
+
+    .font-36 {
+        font-size: 18px;
+    }
+
+    .font-72 {
+        font-size: 32px;
+        margin-top: 10px;
+    }
+
+    .font-24 {
+        font-size: 12px;
+    }
+
+    .card {
+        width: 180px;
+        height: 250px;
+        left: 80px;
+        margin-top: 30px;
+    }
+
+    .bowl {
+        top: 150px;
+        left: 120px;
+        width: 180px;
+        height: 150px;
+    }
+
+    .leafs2 {
+        top: 180px;
+        width: 200px;
+        height: 200px;
+    }
+
+    .text {
+        width: 250px;
+        margin-right: 60px;
+    }
+
+    .bottom-content {
+        max-width: 330px;
+        margin-left: 50px;
+        margin-top: 80px;
+    }
+
+    .spoon {
+        top: 300px;
+        right: 100px;
+        width: 130px;
+        height: 200px;
+        z-index: -1;
+    }
+
+    .previous,
+    .next {
+        margin-top: 30px;
+        margin-right: 150px;
+        font-size: 20px;
+    }
+
+    .newsletter {
+        flex-direction: column;
+    }
+
+    .offers {
+        width: 350px;
+        text-align: center;
+        margin-top: 150px;
+    }
+
+    .email {
+        width: 200px;
+        margin-left: 30px;
+    }
+
+    .subscribe {
+        width: 100px;
+    }
+
+    .foot_content {
+        min-height: 1500px;
+    }
+
+    .footer_content_bottom {
+        flex-direction: column;
+        margin-left: 50px;
+    }
+
+    .rights {
+        margin-top: 30px;
+    }
+
+    .margin_top {
+        margin-top: 40px;
+    }
+
+    .border_line_footer {
+        width: 300px;
+        margin-left: 40px;
+    }
+
+    .get {
+        margin-bottom: 60px;
+    }
+
+    .bold {
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 650px) {
+    #section1 {
+        height: 50vh;
+    }
+
+    .left-side-text {
+        max-width: 250px;
+        margin-left: 40px;
+    }
+    .wooden-furniture {
+        font-size: 18;
+    }
+
+    .big-text {
+        font-size: 36px;
+    }
+
+    .box {
+        width: 200px;
+        height: 500px;
+    }
+
+    .table {
+        width: 200px;
+        height: 200px;
+        top: 250px;
+        left: 330px;
+    }
+
+    .leafs {
+        width: 150px;
+        height: 150px;
+        left: 310px;
+        top: 350px;
+    }
+
+    .logo2 {
+        width: 20px;
+        height: 20px;
+        margin-top: 0;
+    }
+
+    .border-line {
+        width: 56px;
+        padding-top: 28px;
+    }
+
+    .border-line-2 {
+        padding-top: 30px;
+        width: 50px;
+    }
+
+    .font-36 {
+        font-size: 16px;
+    }
+
+    .font-72 {
+        font-size: 22px;
+        margin-top: 12px;
+    }
+
+    #section2 {
+        max-height: 80vh;
+    }
+
+    .card {
+        width: 150px;
+        height: 220px;
+        left: 20px;
+        margin-top: 30px;
+    }
+
+    .bowl {
+        top: 140px;
+        left: 60px;
+        width: 140px;
+        height: 100px;
+    }
+
+    .leafs2 {
+        top: 190px;
+        width: 150px;
+        height: 150px;
+    }
+
+    .text {
+        width: 150px;
+        margin-right: 20px;
+    }
+
+    .bottom-content {
+        max-width: 130px;
+        margin-left: 50px;
+        margin-top: 80px;
+    }
+
+    .spoon {
+        top: 300px;
+        right: 50px;
+        width: 130px;
+        height: 200px;
+        z-index: -1;
+    }
+
+    .card_box {
+        height: 383px;
+        width: 280px;
+        border: 1px solid #a8dcec;
+        padding: 40px 20px;
+        border-radius: 0 100px 0 100px;
+    }
+}
+
+@media (max-width: 478px) {
+    .box {
+        width: 200px;
+        height: 500px;
+    }
+
+    .table {
+        width: 200px;
+        height: 200px;
+        top: 250px;
+        left: 160px;
+    }
+
+    .leafs {
+        width: 150px;
+        height: 150px;
+        left: 110px;
+        top: 350px;
+    }
+
+    .explore {
+        padding: 10px 15px;
+    }
+
+    .previous,
+    .next {
+        margin-top: 30px;
+        margin-right: 100px;
+    }
+}
+
+/* burger menu */
+
+#menuToggle {
+    display: none;
+}
+
+#menuToggle {
+    position: fixed;
+    top: 20px;
+    right: 50px;
+    z-index: 2;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+#menuToggle input {
+    display: block;
+    width: 40px;
+    height: 32px;
+    position: absolute;
+    top: -7px;
+    left: -5px;
+    cursor: pointer;
+    opacity: 0;
+    z-index: 2;
+    -webkit-touch-callout: none;
+}
+
+/*
+hamburger
+ */
+#menuToggle span {
+    display: block;
+    width: 33px;
+    height: 4px;
+    margin-bottom: 5px;
+    margin-right: 20px;
+    position: relative;
+    background: #000;
+    border-radius: 3px;
+    z-index: 1;
+    transform-origin: 4px 0px;
+    transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1),
+        background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), opacity 0.55s ease;
+}
+
+#menuToggle span:first-child {
+    transform-origin: 0% 0%;
+}
+
+#menuToggle span:nth-last-child(2) {
+    transform-origin: 0% 100%;
+}
+
+/* 
+ * Transform all the slices of hamburger
+ * into a crossmark.
+ */
+#menuToggle input:checked ~ span {
+    opacity: 1;
+    transform: rotate(45deg) translate(-2px, -1px);
+    background: #232323;
+}
+
+/*
+ * But let's hide the middle one.
+ */
+#menuToggle input:checked ~ span:nth-last-child(3) {
+    opacity: 0;
+    transform: rotate(0deg) scale(0.2, 0.2);
+}
+
+/*
+ * Ohyeah and the last one should go the other direction
+ */
+#menuToggle input:checked ~ span:nth-last-child(2) {
+    transform: rotate(-45deg) translate(0, -1px);
+}
+
+/*
+ * Make this absolute positioned
+ * at the top left of the screen
+ */
+#menu {
+    position: absolute;
+    right: -20px;
+    width: 500px;
+    height: 120vh;
+    margin: -100px 0 0 -50px;
+    padding: 50px;
+    padding-top: 125px;
+    background: #ededed;
+    list-style-type: none;
+    -webkit-font-smoothing: antialiased;
+    /* to stop flickering of text in safari */
+    transform-origin: 0% 0%;
+    transform: translate(0, -100%);
+    transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1);
+}
+
+#menu li {
+    display: block;
+    padding: 15px 0;
+    font-size: 22px;
+}
+
+#menu li a:hover {
+    color: #daa520;
+    transition: 0.3s;
+}
+
+/*
+ * And let's slide it in from the left
+ */
+#menuToggle input:checked ~ ul {
+    transform: none;
+}
+
+@media (max-width: 996px) {
+    #menuToggle {
+        display: block;
+        right: 0;
+    }
+
+    #menu a,
+    .signup {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 796px) {
+    #menu a,
+    .signup {
+        font-size: 15px;
+    }
+
+    #menu {
+        width: 375px;
+    }
+
+    #menuToggle {
+        margin-right: 20px;
+    }
+}
+
+/* END OF THE MEDIA QUERYS AND BURGER MENU */

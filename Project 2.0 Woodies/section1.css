@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    overflow-x: hidden;
+}
+
+.border-line-2 {
+    padding-top: 38px;
+    width: 200px;
+}
+
+.font-36 {
+    font-size: 24px;
+}
+
+.font-72 {
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+body {
+    font-family: Nunito;
+    width: 100%;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#nav-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 40px;
+    margin-top: 20px;
+}
+
+.main-logo {
+    justify-content: center;
+}
+
+.main-menu {
+    justify-content: center;
+}
+
+.main-menu a:hover {
+    color: #daa520;
+    transition: 0.3s;
+}
+
+.home {
+    color: #daa520;
+    font-weight: 700;
+}
+
+.home li:hover {
+    color: #222;
+    transition: 0.3s;
+}
+
+ul a {
+    text-decoration: none;
+    color: rgba(34, 34, 34, 0.75);
+}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 48px;
+}
+
+.signup {
+    background: transparent;
+    font-size: 16px;
+    font-family: Nunito;
+    font-weight: 700;
+    color: rgba(34, 34, 34, 0.75);
+    text-transform: uppercase;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 8px 40px;
+    cursor: pointer;
+    margin-right: 50px;
+}
+
+.signup:hover {
+    color: #daa520;
+}
+
+/* SECTION 1 STARTS HERE */
+
+#section1 {
+    display: flex;
+    justify-content: space-between;
+    height: 100vh;
+}
+
+.font-36 {
+    font-size: 36px;
+}
+
+.font-72 {
+    font-size: 72px;
+}
+
+.explore {
+    background: #daa520;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.left-side-text {
+    max-width: 504px;
+    align-self: center;
+    flex: 1;
+}
+
+.box {
+    width: 400px;
+    height: 800px;
+    background: #f9bdbd;
+    position: relative;
+    flex: 1;
+    top: -60px;
+    right: 0;
+    z-index: -1;
+    border-radius: 0 0 0 100px;
+}
+
+.table,
+.leafs {
+    position: absolute;
+}
+
+.table {
+    top: 200px;
+    right: 160px;
+}
+
+.leafs {
+    top: 400px;
+    right: 400px;
+}
